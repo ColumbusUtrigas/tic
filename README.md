@@ -2,6 +2,8 @@
 
 Tiny Image Codec (TIC) is an experimental image compression library designed for high efficiency and flexibility. TIC supports multiple compression modes and chroma subsampling, aiming to deliver excellent compression ratios while maintaining image quality.
 
+It ships as a **single .h + .c** for ease of integration.
+
 ## Features
 
 - **Multiple Compression Modes**
