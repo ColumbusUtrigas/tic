@@ -84,7 +84,3 @@ The codec applies quantization and entropy coding to further reduce file size.
 ## Status
 
 TIC is experimental and intended for research, prototyping, or educational use. The codec is implemented in portable C89.
-
-## License
-
-[Specify your license here]
